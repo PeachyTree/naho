@@ -1,4 +1,4 @@
-// Naho Discord Bot (c) 2019 / 2020 Azura Apple
+// Naho Discord Bot (c) 2019 - 2021 Shin#0484
 
 const { FriendlyError } = require('discord.js-commando');
 const { oneLine } = require('common-tags');

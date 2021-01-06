@@ -1,21 +1,17 @@
 {
   "name": "naho",
-  "version": "1.32.3",
+  "version": "1.2.4",
   "description": "A Discord Bot with focus around Economy and Canvas commands.",
   "author": {
-    "name": "Azura Apple <azuraapple0@gmail.com>"
+    "name": "Shin#0484"
   },
   "license": "MIT",
-  "scripts": {
-    "test": "npm run lint",
-    "lint": "eslint ."
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AzuraApple/naho.git"
+    "url": "git+https://github.com/Shinmercy/naho.git"
   },
   "bugs": {
-    "url": "https://github.com/AzuraApple/naho/issues"
+    "url": "https://github.com/Shinmercy/naho/issues"
   },
   "keywords": [
     "discord",
@@ -23,7 +19,7 @@
     "economy",
     "bot"
   ],
-  "homepage": "https://github.com/AzuraApple/naho#readme",
+  "homepage": "https://github.com/Shinmercy/naho#readme",
   "dependencies": {
     "Sherlock": "neilgupta/Sherlock",
     "canvas": "next",
